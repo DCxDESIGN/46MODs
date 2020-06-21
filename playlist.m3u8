@@ -3,7 +3,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:13
-#EXT-X-KEY:METHOD=AES-128,URI="https://api.orb.camplat.com/v1/videostreams/84866310-aa40-11ea-8fc2-5bf1f70fd0e5/encryptkey?token=e8c23b28364408100b570c744d25786a86e34498e5c02c333d17cb80a13a5e7e",IV=0xa19b00b07bbb5b534df136a3d0d75780
+#EXT-X-KEY:METHOD=AES-128,URI="https://api.orb.camplat.com/v1/videostreams/84866310-aa40-11ea-8fc2-5bf1f70fd0e5/encryptkey?token=15e920c87eb653065b6c78951ce2f58c89e1c1c9712378d740fc80d440059948",IV=0xa19b00b07bbb5b534df136a3d0d75780
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:12.0787,
 https://video-milo.orb.camplat.com/public/84/86/84866310/84866310-aa40-11ea-8fc2-5bf1f70fd0e5/milo_hls_1080p00000.ts
